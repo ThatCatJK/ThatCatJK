@@ -1,4 +1,4 @@
-Hi, I’m @ThatCatJK. I'm a game developer whos still crazy enogh to use C.
+Hi I'm That Cat JK. I'm a game developer who's still crazy enough to use C.
 
 Instagram: @that.cat.jk
 
