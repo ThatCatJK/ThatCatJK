@@ -1,4 +1,4 @@
-Hi, I’m @ThatCatJK. I'm a game developer. Although alittle bit of a black sheep game developer thogh; cause I use C!
+Hi, I’m @ThatCatJK. I'm a game developer whos still crazy enogh to use C.
 
 Instagram: @that.cat.jk
 
